@@ -1,0 +1,34 @@
+{
+    "name": "UIaction",
+    "maps": [
+        {
+            "name": "UI",
+            "id": "97cb8ceb-ae71-43ea-8114-b9e8fc1b815c",
+            "actions": [
+                {
+                    "name": "load",
+                    "type": "Button",
+                    "id": "45957e5c-ea40-465d-a7d5-3b8cd5ef6edb",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9cd38430-dd3d-45fe-a1a3-409a2619235d",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "load",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
